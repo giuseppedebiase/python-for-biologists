@@ -6,10 +6,15 @@
 # coding regions of the DNA sequence. 
 
 my_dna = "ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT"
-p1 = 63
+
+# I guess that with "to the sixty-third character" the author means to the 62nd character (63 excluded)
+# because the statement for the creation of the substring for exon1 is the following
+# exon1 = my_dna[0:62]
+# whic would create a substring of length 62
+p1 = 62
 p2 = 91
-# with string slicing the end value is not included, so the end string will end with character 62 (if you start counting from 0)
-# or value 63 is yous tart counting from 1
+# with string slicing the end value is not included, so the sub-string will end with character 61 (if you start counting from 0)
+# or value 62 is you start counting from 1
 exon1 = my_dna[0:p1]
 # with string slicing the beginning character is included, if I used 91 as p1 the resulting string would've started
 # with the 92nd character (counting from 0) so I subtracted 1 from 91 to have a substring that begins from 
