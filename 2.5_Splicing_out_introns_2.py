@@ -1,6 +1,6 @@
 # Using the data from part one, write a program that will calculate what percentage
 # of the DNA sequence is coding.
-# Part 1:
+# Part 1: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.4_Splicing_out_introns_1.py
 
 my_dna = "ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT"
 p1 = 62
