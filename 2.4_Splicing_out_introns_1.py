@@ -7,7 +7,7 @@
 
 my_dna = "ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT"
 
-# I guess that with "to the sixty-third character" the author means to the 62nd character (63 excluded)
+# I guess that with "to the sixty-third character" the author meant to the 62nd character (63 excluded)
 # because the statement for the creation of the substring for exon1 is the following
 # exon1 = my_dna[0:62]
 # whic would create a substring of length 62
