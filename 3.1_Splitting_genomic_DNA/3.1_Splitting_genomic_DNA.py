@@ -4,6 +4,7 @@
 # write these sequences to two separate files. 
 # Hint: use your solution to the last exercise from chapter 2 as a starting point.
 # Solution for the last exercise of chapter 2: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.6_Splicing_out_introns_3.py
+
 p1 = 62
 p2 = 91
 my_file = open("genomic_dna.txt")
