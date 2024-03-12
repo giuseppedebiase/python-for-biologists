@@ -2,7 +2,7 @@
 
 This repository contains the solutions for the exercises present in the book "Python for Biologists" by Dr. Martin Jones
 
-## Chapter 1 - Introduction and envirnoment
+## Chapter 1 - Introduction and environment
 This chapter doesn't have any exercise
 
 ## Chapter 2 - Printing and manipulating text
