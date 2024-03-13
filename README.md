@@ -3,7 +3,7 @@
 This repository contains the solutions for the exercises present in the book "Python for Biologists" by Dr. Martin Jones
 
 ## Chapter 1 - Introduction and environment
-This chapter doesn't have any exercise
+This chapter doesn't have any exercises
 
 ## Chapter 2 - Printing and manipulating text
 [Calculating AT content](https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.1_Calculating_AT_content.py)  
