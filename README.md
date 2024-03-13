@@ -14,4 +14,5 @@ This chapter doesn't have any exercise
 [Splicing out introns part 3](https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.6_Splicing_out_introns_3.py)  
 
 ## Chapter 3 - Reading and writing files
-[Splitting Genomic DNA](https://github.com/giuseppedebiase/python-for-biologists/tree/main/3.1_Splitting_genomic_DNA)
+[Splitting Genomic DNA](https://github.com/giuseppedebiase/python-for-biologists/tree/main/3.1_Splitting_genomic_DNA)  
+[Writing a FASTA file](https://github.com/giuseppedebiase/python-for-biologists/blob/main/3.2_Writing_a_FASTA_file.py)
