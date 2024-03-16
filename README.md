@@ -21,3 +21,6 @@ This chapter doesn't have any exercises
 ## Chapter 4 - Lists and loops
 [4.1 - Processing DNA in a file](https://github.com/giuseppedebiase/python-for-biologists/tree/main/4.1_Processing_DNA_in_a_file)  
 [4.2 - Multiple exons from genomic DNA](https://github.com/giuseppedebiase/python-for-biologists/tree/main/4.2_Multiple_exons_from_genomic_DNA)
+
+## Chapter 5 - Writing our own functions
+[5.1 - Percentage of amino acid residues part 1](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.1_Percentage_of_amino_acid_residues_1.py)
