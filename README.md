@@ -23,4 +23,5 @@ This chapter doesn't have any exercises
 [4.2 - Multiple exons from genomic DNA](https://github.com/giuseppedebiase/python-for-biologists/tree/main/4.2_Multiple_exons_from_genomic_DNA)
 
 ## Chapter 5 - Writing our own functions
-[5.1 - Percentage of amino acid residues part 1](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.1_Percentage_of_amino_acid_residues_1.py)
+[5.1 - Percentage of amino acid residues part 1](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.1_Percentage_of_amino_acid_residues_1.py)  
+[5.2 - Percentage of amino acid residues part 2](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.2_Percentage_of_amino_acid_residues_2.py)
