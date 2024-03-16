@@ -9,6 +9,7 @@
 # assert my_function("MSRSLLLRFLLFLLLLPPLP") == 65
 
 def percent_aa(protein, aa_list = ["A", "I", "L", "M", "F", "W", "Y", "W"]):
+    #number_aa is the number of all the aminoacids of the list list (the second argument of this function) present in the protein sequence 
     number_aa = 0
     for aminoacid in aa_list:
         number_aa = number_aa + protein.count(aminoacid)
