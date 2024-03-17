@@ -8,7 +8,7 @@
 # assert my_function("MSRSLLLRFLLFLLLLPPLP", "Y") == 0
 
 def percent_aa(protein, aa):
-    # the aa argument should not be case sensitive (see line 18)
+    # the argument "aa" should not be case sensitive (see line 18)
     aa = aa.upper()
     number_aa = protein.count(aa)
     percent = (number_aa/len(protein))*100
