@@ -17,3 +17,5 @@ for line in file:
     if line_as_list[0] == "Drosophila simulans" or line_as_list[0] == "Drosophila melanogaster":
         # The gene name is in the third column of each row
         print(line_as_list[2])
+
+file.close()
