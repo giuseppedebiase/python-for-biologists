@@ -27,4 +27,5 @@ This chapter doesn't have any exercises
 [5.2 - Percentage of amino acid residues part 2](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.2_Percentage_of_amino_acid_residues_2.py)
 
 ## Chapter 6 - Conditional tests
-[6.1 - Several species](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.1_Several_species)
+[6.1 - Several species](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.1_Several_species)  
+[6.2 - Length range](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.2_Length_range)
