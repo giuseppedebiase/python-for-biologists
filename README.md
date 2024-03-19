@@ -25,3 +25,6 @@ This chapter doesn't have any exercises
 ## Chapter 5 - Writing our own functions
 [5.1 - Percentage of amino acid residues part 1](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.1_Percentage_of_amino_acid_residues_1.py)  
 [5.2 - Percentage of amino acid residues part 2](https://github.com/giuseppedebiase/python-for-biologists/blob/main/5.2_Percentage_of_amino_acid_residues_2.py)
+
+## Chapter 6 - Conditional tests
+[6.1 - Several species](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.1_Several_species)
