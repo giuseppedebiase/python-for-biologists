@@ -30,4 +30,5 @@ This chapter doesn't have any exercises
 [6.1 - Several species](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.1_Several_species)  
 [6.2 - Length range](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.2_Length_range)  
 [6.3 - AT content](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.3_AT_content)  
-[6.4 - Complex condition](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.4_Complex_condition)
+[6.4 - Complex condition](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.4_Complex_condition)  
+[6.5 - High low medium](https://github.com/giuseppedebiase/python-for-biologists/tree/main/6.5_High_low_medium)
