@@ -32,3 +32,6 @@ This chapter doesn't have any exercises.
 [6.3 - AT content](https://github.com/giuseppedebiase/python-for-biologists/tree/main/Chapter%206/6.3_AT_content)  
 [6.4 - Complex condition](https://github.com/giuseppedebiase/python-for-biologists/tree/main/Chapter%206/6.4_Complex_condition)  
 [6.5 - High low medium](https://github.com/giuseppedebiase/python-for-biologists/tree/main/Chapter%206/6.5_High_low_medium)
+
+## Chapter 7 - Regular expressions
+[7.1 - Accession names](https://github.com/giuseppedebiase/python-for-biologists/blob/main/Chapter%207/7.1_Accession_names.py)
