@@ -4,6 +4,7 @@
 
 import re
 
+#The codons that code for the same aa will often start with the same two letters so I used regex (which are not present in the solution present in the book) to make the dict smaller
 codons = {
     'F' : r'TT(T|C)',
     'L' : r'(TT(A|G)|CT[TCAG])',
@@ -33,6 +34,7 @@ def translation(c):
         for match in found:
             return aa
 
+#values of the first and the third base of each codon (starting with the first)
 start_codon = 0
 end_codon = 3
 
@@ -40,11 +42,14 @@ DNA_sequence = 'ACGATCGATCGTNACGTACGATCGTACTCGTAG'
 protein_sequence = ''
 k = len(DNA_sequence)
 
+#The while loops stop when the value of end_codon exceeds the length of the DNA sequence
 while end_codon <= k:
     codon = DNA_sequence[start_codon:end_codon]
     if codon == 'TAA' or codon == 'TAG' or codon == 'TGA':
+        #TAA, TAG and TGA are the stop codons
         break
     elif 'N' in codon:
+        #for the codons that contain the letter N the translated aa will be an X
         protein_sequence += 'X'
         start_codon += 3
         end_codon += 3
