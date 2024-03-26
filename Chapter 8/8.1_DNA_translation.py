@@ -42,7 +42,7 @@ DNA_sequence = 'ACGATCGATCGTNACGTACGATCGTACTCGTAG'
 protein_sequence = ''
 k = len(DNA_sequence)
 
-#The while loops stop when the value of end_codon exceeds the length of the DNA sequence
+#The while loop stop when the value of end_codon exceeds the length of the DNA sequence
 while end_codon <= k:
     codon = DNA_sequence[start_codon:end_codon]
     if codon == 'TAA' or codon == 'TAG' or codon == 'TGA':
