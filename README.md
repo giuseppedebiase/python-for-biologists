@@ -36,3 +36,6 @@ This chapter doesn't have any exercises.
 ## Chapter 7 - Regular expressions
 [7.1 - Accession names](https://github.com/giuseppedebiase/python-for-biologists/blob/main/Chapter%207/7.1_Accession_names.py)  
 [7.2 - Double digest](https://github.com/giuseppedebiase/python-for-biologists/tree/main/Chapter%207/7.2_Double_digest)
+
+## Chapter 8 - Dictionaries  
+[8.1 - DNA translation](https://github.com/giuseppedebiase/python-for-biologists/blob/main/Chapter%208/8.1_DNA_translation.py)
