@@ -4,7 +4,7 @@
 
 import re
 
-#The codons that code for the same aa will often start with the same two letters so I used regex (which are not present in the solution present in the book) to make the dict smaller
+#The codons that code for the same aa will often start with the same two letters so I used regex (which are not present in the solution presented in the book) to make the dict smaller
 codons = {
     'F' : r'TT(T|C)',
     'L' : r'(TT(A|G)|CT[TCAG])',
