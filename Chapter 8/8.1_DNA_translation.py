@@ -1,6 +1,8 @@
-# Write a program that will translate a DNA sequence into protein. Your program 
-# should use the standard genetic code which can be found at this URL
-# https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG1
+'''
+Write a program that will translate a DNA sequence into protein. Your program 
+should use the standard genetic code which can be found at this URL
+https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG1
+'''
 
 import re
 
