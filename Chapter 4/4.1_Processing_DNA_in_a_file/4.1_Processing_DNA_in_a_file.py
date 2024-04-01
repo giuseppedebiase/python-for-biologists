@@ -1,7 +1,9 @@
-# The file input.txt contains a number of DNA sequences, one per line. Each sequence 
-# starts with the same 14 base pair fragment – a sequencing adapter that should have
-# been removed. Write a program that will (a) trim this adapter and write the cleaned 
-# sequences to a new file and (b) print the length of each sequence to the screen.
+'''
+The file input.txt contains a number of DNA sequences, one per line. Each sequence 
+starts with the same 14 base pair fragment – a sequencing adapter that should have
+been removed. Write a program that will (a) trim this adapter and write the cleaned 
+sequences to a new file and (b) print the length of each sequence to the screen.
+'''
 
 my_file = open("input.txt")
 #trimmed.txt will contain the trimmed sequences
