@@ -1,9 +1,11 @@
-# Here's a short section of genomic DNA:
-# ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
-# It comprises two exons and an intron. The first exon runs from the start of the 
-# sequence to the sixty-third character, and the second exon runs from the ninety-
-# first character to the end of the sequence. Write a program that will print just the
-# coding regions of the DNA sequence. 
+'''
+Here's a short section of genomic DNA:
+ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
+It comprises two exons and an intron. The first exon runs from the start of the 
+sequence to the sixty-third character, and the second exon runs from the ninety-
+first character to the end of the sequence. Write a program that will print just the
+coding regions of the DNA sequence. 
+'''
 
 my_dna = "ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT"
 
