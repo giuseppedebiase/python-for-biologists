@@ -1,11 +1,13 @@
-# Write a function that takes two arguments – a protein sequence and an amino acid 
-# residue code – and returns the percentage of the protein that the amino acid makes
-# up. Use the following assertions to test your function:
+'''
+Write a function that takes two arguments – a protein sequence and an amino acid 
+residue code – and returns the percentage of the protein that the amino acid makes
+up. Use the following assertions to test your function:
 
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", "M") == 5
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", "r") == 10
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", "L") == 50
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", "Y") == 0
+assert my_function("MSRSLLLRFLLFLLLLPPLP", "M") == 5
+assert my_function("MSRSLLLRFLLFLLLLPPLP", "r") == 10
+assert my_function("MSRSLLLRFLLFLLLLPPLP", "L") == 50
+assert my_function("MSRSLLLRFLLFLLLLPPLP", "Y") == 0
+'''
 
 def percent_aa(protein, aa):
     # the argument "aa" should not be case sensitive (see line 18)
