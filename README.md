@@ -39,3 +39,6 @@ This chapter doesn't have any exercises.
 
 ## Chapter 8 - Dictionaries  
 [8.1 - DNA translation](https://github.com/giuseppedebiase/python-for-biologists/blob/main/Chapter%208/8.1_DNA_translation.py)
+
+## Chapter 9 - Files, programs and user input
+[9.1 - Binning DNA sequence](https://github.com/giuseppedebiase/python-for-biologists/tree/main/Chapter%209/9.1_Binning_DNA_sequences)
