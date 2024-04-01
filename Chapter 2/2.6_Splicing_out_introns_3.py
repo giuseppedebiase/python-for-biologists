@@ -1,7 +1,9 @@
-# Using the data from part one, write a program that will print out the original 
-# genomic DNA sequence with coding bases in uppercase and non-coding bases in 
-# lowercase. 
-# Part 1: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.4_Splicing_out_introns_1.py
+'''
+Using the data from part one, write a program that will print out the original 
+genomic DNA sequence with coding bases in uppercase and non-coding bases in 
+lowercase. 
+Part 1: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.4_Splicing_out_introns_1.py
+'''
 
 my_dna = "ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT"
 p1 = 62
