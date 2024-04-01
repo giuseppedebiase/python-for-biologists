@@ -1,11 +1,13 @@
-# Write a program that will create a FASTA file for the following three sequences –
-# make sure that all sequences are in upper case and only contain the bases A, T, G 
-# and C.
+'''
+Write a program that will create a FASTA file for the following three sequences –
+make sure that all sequences are in upper case and only contain the bases A, T, G 
+and C.
 
-# Sequence header | DNA sequence
-# ABC123          | ATCGTACGATCGATCGATCGCTAGACGTATCG 
-# DEF456          | actgatcgacgatcgatcgatcacgact
-# HIJ789          | ACTGAC-ACTGT--ACTGTA----CATGTG
+Sequence header | DNA sequence
+ABC123          | ATCGTACGATCGATCGATCGCTAGACGTATCG 
+DEF456          | actgatcgacgatcgatcgatcacgact
+HIJ789          | ACTGAC-ACTGT--ACTGTA----CATGTG
+'''
 
 FASTA_file = open("sequences.fasta", "w")
 FASTA_file.write(">ABC123\nATCGTACGATCGATCGATCGCTAGACGTATCG\n")
