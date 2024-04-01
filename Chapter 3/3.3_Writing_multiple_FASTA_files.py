@@ -1,6 +1,8 @@
-# Use the data from the previous exercise, but instead of creating a single FASTA file, 
-# create three new FASTA files – one per sequence. The names of the FASTA files 
-# should be the same as the sequence header names, with the extension .fasta.
+'''
+Use the data from the previous exercise, but instead of creating a single FASTA file, 
+create three new FASTA files – one per sequence. The names of the FASTA files 
+should be the same as the sequence header names, with the extension .fasta.
+'''
 
 #first FASTA
 sequence_one = open("ABC123.fasta", "w")
