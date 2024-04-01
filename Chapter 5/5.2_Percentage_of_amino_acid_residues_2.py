@@ -1,12 +1,14 @@
-# Modify the function from part one so that it accepts a list of amino acid residues 
-# rather than a single one. If no list is given, the function should return the 
-# percentage of hydrophobic amino acid residues (A, I, L, M, F, W, Y and V). Your 
-# function should pass the following assertions:
+'''
+Modify the function from part one so that it accepts a list of amino acid residues 
+rather than a single one. If no list is given, the function should return the 
+percentage of hydrophobic amino acid residues (A, I, L, M, F, W, Y and V). Your 
+function should pass the following assertions:
 
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", ["M"]) == 5
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", ['M', 'L']) == 55
-# assert my_function("MSRSLLLRFLLFLLLLPPLP", ['F', 'S', 'L']) == 70
-# assert my_function("MSRSLLLRFLLFLLLLPPLP") == 65
+assert my_function("MSRSLLLRFLLFLLLLPPLP", ["M"]) == 5
+assert my_function("MSRSLLLRFLLFLLLLPPLP", ['M', 'L']) == 55
+assert my_function("MSRSLLLRFLLFLLLLPPLP", ['F', 'S', 'L']) == 70
+assert my_function("MSRSLLLRFLLFLLLLPPLP") == 65
+'''
 
 def percent_aa(protein, aa_list = ["A", "I", "L", "M", "F", "W", "Y", "W"]):
     #number_aa is the number of all the aminoacids of the list "aa_list" (the second argument of this function) present in the protein sequence "protein"
