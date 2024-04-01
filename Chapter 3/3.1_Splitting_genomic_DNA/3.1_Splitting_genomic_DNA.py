@@ -1,9 +1,11 @@
-# Look in the chapter_3 folder for a file called genomic_dna.txt – it contains the same 
-# piece of genomic DNA that we were using in the final exercise from chapter 2. Write
-# a program that will split the genomic DNA into coding and non-coding parts, and 
-# write these sequences to two separate files. 
-# Hint: use your solution to the last exercise from chapter 2 as a starting point.
-# Solution for the last exercise of chapter 2: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.6_Splicing_out_introns_3.py
+'''
+Look in the chapter_3 folder for a file called genomic_dna.txt – it contains the same 
+piece of genomic DNA that we were using in the final exercise from chapter 2. Write
+a program that will split the genomic DNA into coding and non-coding parts, and 
+write these sequences to two separate files. 
+Hint: use your solution to the last exercise from chapter 2 as a starting point.
+Solution for the last exercise of chapter 2: https://github.com/giuseppedebiase/python-for-biologists/blob/main/2.6_Splicing_out_introns_3.py
+'''
 
 p1 = 62
 p2 = 91
