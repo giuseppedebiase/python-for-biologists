@@ -3,6 +3,7 @@ Here's a short DNA sequence:
 ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT
 Write a program that will print the complement of this sequence.
 '''
+
 my_dna = "ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT"
 my_dna_lower = my_dna.lower()
 #replace is case sensitive, so I used the lower method to convert uppercase letters to lower case and then I used replace to replace lower case bases to their complementary (in uppercase)
