@@ -6,6 +6,7 @@ cuts at the motif G*AATTC (the position of the cut is indicated by an asterisk).
 Write a program which will calculate the size of the two fragments that will be
 produced when the DNA sequence is digested with EcoRI.
 '''
+
 my_dna = "ACTGATCGATTACGTATAGTAGAATTCTATCATACATATATATCGATGCGTTCAT" 
 #                              ^      
 p = my_dna.find("GAATTC") #p is 21 (counting from 0)
