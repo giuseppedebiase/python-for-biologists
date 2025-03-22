@@ -1,6 +1,6 @@
 # Python for Biologists
 
-This repository contains my solutions for the exercises in the book ["Python for Biologists"](https://userpages.fu-berlin.de/digga/p4b.pdf) by Dr. Martin Jones.
+This repository contains my solutions for the exercises in the book "Python for Biologists" by Dr. Martin Jones.
 
 ## Chapter 1 - Introduction and environment
 This chapter doesn't have any exercises.
